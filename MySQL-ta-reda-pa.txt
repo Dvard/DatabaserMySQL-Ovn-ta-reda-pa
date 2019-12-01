@@ -1,0 +1,18 @@
+﻿Databaser Övning 1
+1. Vad är en databas?
+En samling data som sparas strukturerat på en server.
+2. Nämn tre (3) ställen där databaser kan användas: 
+Webbsidor, appar, butiker
+3. Nämn tre (3) databas programvaror (DBMS): 
+MySQL, Postgresql, Microsoft Access och Oracle Database.
+
+
+MYSQL (www.mysql.com )
+4. Nämn tre företag/instanser/programvaror som använder MySQL:
+Uber, Netflix och Dropbox.
+5. Bekanta dig med de olika Mysql versionerna. Hur många olika versioner av MySQL erbjuder Oracle?
+MySQL community, standard, enterprise och cluster carrier grade.
+6.  För ”gratis version” av Mysql, ”Mysql community edition” gäller licensavtalet GPL(General Public License) Tag reda på vad detta(GPL) innebär gällande användning av Mysql.
+GNU GPL-licensen är en fri-proramvarelicens vilket innebär att användaren av programmet är fri att använda programmet hur hen vill, läsa och ändra källkoden, att ge vidare programmet och att ge vidare en ändrad version av programmet. 
+7. Vad är storage engine och vilken använder MySQL?
+En storage engine är ett program som en DBMS använder sig av fär att skapa, radera och uppdatera data. MySQL använder sig av InnoDB.
